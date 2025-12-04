@@ -30,7 +30,7 @@ Feel free to use this code for your own projects and customize it to your liking
 
 ## Contributors
 
-- [Vngi](https://github.com/Vngi)
+- [Femq](https://github.com/Femq)
 
 ## License
 
